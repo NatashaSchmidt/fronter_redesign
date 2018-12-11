@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.035 105.659">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb4aa;
+      }
+
+      .cls-2 {
+        fill: #fffcfc;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #efdbdb;
+      }
+
+      .cls-4 {
+        fill: #8b748d;
+      }
+    </style>
+  </defs>
+  <g id="materiale_logo" transform="translate(-213.896 -181.053)">
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="56.018" cy="52.83" rx="56.018" ry="52.83" transform="translate(213.896 181.053)"/>
+    <g id="Group_28" data-name="Group 28" transform="translate(239.405 212.039)">
+      <path id="Path_44" data-name="Path 44" class="cls-2" d="M1705,243.034v39.074h60.833l.362-39.115-38.182.041v-3.952H1705Z" transform="translate(-1705 -239.082)"/>
+      <path id="Path_46" data-name="Path 46" class="cls-3" d="M1221.623,252.011h23.43l4.458-2.988h33.146v34.512h-61.034Z" transform="translate(-1221.623 -240.798)"/>
+      <path id="Path_47" data-name="Path 47" class="cls-4" d="M1224.208,245.8h57.7v1.756l-32.408.078-4.164,2.832h-22.73v-3.16Z" transform="translate(-1221.983 -239.624)"/>
+    </g>
+  </g>
+</svg>

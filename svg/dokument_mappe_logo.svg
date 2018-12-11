@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.199 44.026">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffcfc;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #efdbdb;
+      }
+
+      .cls-3 {
+        fill: #8b748d;
+      }
+    </style>
+  </defs>
+  <g id="dokument_mappe_logo" transform="translate(0.5 0.5)">
+    <path id="Path_44" data-name="Path 44" class="cls-1" d="M1705,243.034v39.074h60.833l.362-39.115-38.182.041v-3.952H1705Z" transform="translate(-1705 -239.082)"/>
+    <path id="Path_46" data-name="Path 46" class="cls-2" d="M1221.623,252.011h23.43l4.458-2.988h33.146v34.512h-61.034Z" transform="translate(-1221.623 -240.798)"/>
+    <path id="Path_47" data-name="Path 47" class="cls-3" d="M1224.208,245.8h57.7v1.756l-32.408.078-4.164,2.832h-22.73v-3.16Z" transform="translate(-1221.983 -239.624)"/>
+  </g>
+</svg>

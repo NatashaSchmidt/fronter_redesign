@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.913 55.913">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #d1cdcd;
+      }
+    </style>
+  </defs>
+  <g id="person_ikon" transform="translate(-16.663 -221)">
+    <ellipse id="Ellipse_17" data-name="Ellipse 17" class="cls-1" cx="27.956" cy="27.956" rx="27.956" ry="27.956" transform="translate(16.663 221)"/>
+    <ellipse id="Ellipse_16" data-name="Ellipse 16" class="cls-2" cx="8.653" cy="8.653" rx="8.653" ry="8.653" transform="translate(36.631 230.319)"/>
+    <path id="Path_40" data-name="Path 40" class="cls-2" d="M13.356,0c7.376,0,13.356,8.2,13.356,18.3,0,5.186-6.185,5.179-13.356,5.036C7.18,23.221,0,23.228,0,18.3,0,8.2,5.98,0,13.356,0Z" transform="translate(31.306 248.956)"/>
+  </g>
+</svg>

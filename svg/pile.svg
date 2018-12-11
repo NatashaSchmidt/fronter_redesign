@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.359 19.789">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="pile" transform="translate(-157.253 -88.2)">
+    <g id="Group_69" data-name="Group 69" transform="translate(157.253 88.2)">
+      <path id="Path_56" data-name="Path 56" class="cls-1" d="M14.192,0,0,13.791V0Z" transform="matrix(0.695, -0.719, 0.719, 0.695, 0, 10.209)"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-1" width="9.657" height="7.243" transform="translate(9.453 6.277)"/>
+    </g>
+    <g id="Group_70" data-name="Group 70" transform="translate(222.612 107.989) rotate(180)">
+      <path id="Path_56-2" data-name="Path 56" class="cls-1" d="M14.192,0,0,13.791V0Z" transform="matrix(0.695, -0.719, 0.719, 0.695, 0, 10.209)"/>
+      <rect id="Rectangle_148-2" data-name="Rectangle 148" class="cls-1" width="9.657" height="7.243" transform="translate(9.453 6.277)"/>
+    </g>
+  </g>
+</svg>

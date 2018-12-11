@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.035 105.659">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb4aa;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #e0d7d7;
+      }
+
+      .cls-4 {
+        fill: #473145;
+        font-size: 13px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="aflevering_logo" transform="translate(-50 -347.197)">
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="56.018" cy="52.83" rx="56.018" ry="52.83" transform="translate(50 347.197)"/>
+    <g id="Group_29" data-name="Group 29" transform="translate(75.444 368.346)">
+      <path id="Path_42" data-name="Path 42" class="cls-2" d="M1705,229.039v62.942h60.841V237.987l-9.081-8.825Z" transform="translate(-1705 -228.801)"/>
+      <g id="Path_43" data-name="Path 43" class="cls-3" transform="translate(-1480.468 -232.72)">
+        <path class="cls-6" d="M 1540.821899414062 240.9642639160156 L 1532.766357421875 240.9642639160156 L 1532.57568359375 233.2203674316406 L 1532.990112304688 233.2203674316406 L 1540.821899414062 240.9642639160156 Z"/>
+        <path class="cls-7" d="M 1533.095703125 234.0279693603516 L 1533.254272460938 240.4642639160156 L 1539.605102539062 240.4642639160156 L 1533.095703125 234.0279693603516 M 1532.063232421875 232.7203674316406 L 1533.195556640625 232.7203674316406 L 1541.624267578125 241.0544738769531 L 1541.624267578125 241.4642639160156 L 1532.278564453125 241.4642639160156 L 1532.063232421875 232.7203674316406 Z"/>
+      </g>
+      <text id="A_" data-name="A+" class="cls-4" transform="matrix(0.848, -0.53, 0.53, 0.848, 11.556, 21.654)"><tspan x="0" y="0">A+</tspan></text>
+      <line id="Line_10" data-name="Line 10" class="cls-5" x2="48.567" transform="translate(5.589 30.263)"/>
+      <line id="Line_11" data-name="Line 11" class="cls-5" x2="48.567" transform="translate(5.589 35.871)"/>
+      <line id="Line_12" data-name="Line 12" class="cls-5" x2="48.567" transform="translate(5.589 41.478)"/>
+      <line id="Line_13" data-name="Line 13" class="cls-5" x1="48.567" transform="translate(5.589 47.085)"/>
+      <line id="Line_14" data-name="Line 14" class="cls-5" x2="48.567" transform="translate(5.589 53.424)"/>
+    </g>
+  </g>
+</svg>

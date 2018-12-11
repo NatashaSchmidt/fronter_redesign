@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.035 105.659">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb4aa;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #473145;
+        font-size: 18px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="chat_logo" transform="translate(-213.896 -513.341)">
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="56.018" cy="52.83" rx="56.018" ry="52.83" transform="translate(213.896 513.341)"/>
+    <g id="Group_17" data-name="Group 17" transform="translate(239.851 533.577)">
+      <g id="Rectangle_129" data-name="Rectangle 129" class="cls-2" transform="translate(0 23.761)">
+        <rect class="cls-5" width="60.749" height="41.335"/>
+        <rect class="cls-6" x="-0.5" y="-0.5" width="61.749" height="42.335"/>
+      </g>
+      <path id="Path_36" data-name="Path 36" class="cls-3" d="M2171.261,259l30.548,20.865L2232.01,259Z" transform="translate(-2171.261 -235.239)"/>
+      <path id="Path_37" data-name="Path 37" class="cls-2" d="M2180.725,221.06h44.615v29.187l-21.254,15.46-23.094-16.319Z" transform="translate(-2173.382 -221.06)"/>
+      <text id="_" data-name="@" class="cls-4" transform="translate(20.241 10.157)"><tspan x="0" y="16">@</tspan></text>
+    </g>
+  </g>
+</svg>
