@@ -1,54 +1,55 @@
 <!DOCTYPE html>
 <html lang="">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KEA Intranet</title>
+    <title>KEA Intranet</title>
     <link rel="stylesheet" href="style.css">
 
 </head>
 
-<body>
+<body class="loginpage">
 
-    <main>
-        <main class="container rounded">
+    <main class="container_login">
 
+        <img src="svg/kea.svg" class="keatitle">
 
-            <form id="fronterkealoginform" class="loginform" action="forside.html">
-                <div class="formgroup">
-
-                    <input type="text" placeholder="Indtast brugernavn">
-                </div>
-
-                <div class="formgroup">
-                    <input type="password" placeholder="indtast password">
-                </div>
-
-                <div class="formgroup">
-                    <input type="submit" value="Log ind!">
-                </div>
-
-            </form>
-
-            <a href="Husk mig!"></a> <input type="checkbox">
-
-            <div class="glemtpassword">
-                <a href="glemtpassword.html">Glemt password?</a>
+        <form id="fronterkealoginform" class="loginform">
+            <div class="formgroup">
+                <img src="svg/uni_login_ui.svg" class="uni">
+                <a href="glemt_angangskode.html"></a>
+            </div>
+            <div class="formgroup">
+                <input type="text" placeholder="Indtast brugernavn">
             </div>
 
+            <div class="formgroup">
+                <input type="password" placeholder="Indtast kode">
+            </div>
 
-            <div class="huskmig" form="fronterkealoginform">
-
+            <div class="formgroup">
+                <input type="submit" value="LOG IND" href="dashboard.html">
 
 
             </div>
 
-            <div class="glemtpassword">
 
-            </div>
+        </form>
 
 
-        </main>
+
+        <div class="changelanguage">
+            <a href="changelanguage.html">Change language</a>
+        </div>
+
+        <div class="glemtpassword">
+            <a href="glemtpassword.html"> Glemt kode?</a>
+        </div>
+
+
+    </main>
 
 </body>
+
 </html>

@@ -1,16 +1,104 @@
 <!DOCTYPE html>
 <html lang="">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>KEA Intranet</title>
+    <title>KEA Intranet</title>
     <link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
+
+
     <main>
+
+        <header>
+            <!--       BURGERMENU-->
+
+            <input type="checkbox" id="m1" class="hidden-menu-ticker">
+            <label class="btn-menu" for="m1">
+                <span class="first"></span>
+                <span class="second"></span>
+                <span class="third"></span>
+            </label>
+
+            <ul class="hidden-menu">
+                <div class="move_menu">
+                    <img class="kea_logo" src="svg/kea_logo.svg" alt="kea_logo">
+
+                    <li><img class="logo" src="svg/skema_logo.svg" alt="skema"><a href="skema.html">Skema</a></li>
+
+                    <li><img class="logo" src="svg/aflevering_logo.svg" alt="afleveringer"><a href="afleveringer.html">Aflevering</a></li>
+
+                    <li><img class="logo" src="svg/aktuelt_logo.svg" alt="Aktuelt"><a href="dashboard.html">Aktuelt</a></li>
+
+                    <li><img class="logo" src="svg/materiale_logo.svg" alt="Materialer"><a href="materialer.html">Materiale</a></li>
+                    <li><img class="logo" src="svg/portfolio_logo.svg" alt="Portfolio"><a href="INDSÆTSIDE">Portfolio</a></li>
+                    <li><img class="logo" src="svg/chat_logo.svg" alt="chat"><a href="chatside.html">Chat</a></li>
+
+                    <li class="go_back">
+                        <a href="INDSÆTSIDE">Til forsiden</a>
+                    </li>
+                </div>
+            </ul>
+            <!--        BURGERMENU SLUT-->
+
+            <p>1. Semester</p>
+            <div id="lock"></div>
+        </header>
+
+        <div id="skift_uge">
+            <div class="pile">
+                <div id="pil_left"></div>
+                <div id="pil_right"></div>
+            </div>
+
+            <h1>TORSDAG D. 3/12</h1>
+        </div>
+        <form id="skema_uge" class="skema" action="dashboard.html">
+
+            <div class="lektion" id="lektion_1">
+                <input type="submit" value="Undervisning">
+                <h3>08:30 - 09:15</h3>
+                <h4>UX & UI</h4>
+
+                <!--
+                <a href="INDSÆTSIDE">
+                    Undervisning
+                </a>
+-->
+            </div>
+            <div class="lektion">
+                <h2>Undervisning</h2>
+                <h3>09:15 - 11:00</h3>
+                <h4>UX & UI</h4>
+            </div>
+            <div id="gruppearbejde" class="lektion">
+                <h2>Selvstændigt/gruppearbejde</h2>
+                <h3>11:00 - 11:45</h3>
+                <h4>UX & UI</h4>
+            </div>
+            <div id="afleveringer" class="lektion">
+                <h2>Afleveringsfrist kl 23:59</h2>
+                <h3>12:30 - 13:15</h3>
+                <h4>UX & UI</h4>
+            </div>
+
+
+
+
+
+
+
+
+
+        </form>
+
+
 
     </main>
 </body>
+
 </html>
