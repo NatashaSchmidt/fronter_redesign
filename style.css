@@ -2416,18 +2416,6 @@ h4 {
 /*------------- dropdown -------------*/
 /*BURGERMENU*/
 
-@media only screen and (max-width: 993px) {
-
-    nav {
-        display: none;
-    }
-
-        {
-        box-sizing: content-box;
-    }
-
-}
-
 @media only screen and (min-width: 994px) {
 
     .hidden-menu,
@@ -2445,7 +2433,6 @@ h4 {
     }
 }
 
-
 .hidden-menu {
     display: flex;
     list-style: none;
@@ -2459,7 +2446,7 @@ h4 {
 
 .move_menu {
     transform: translateX(18vw);
-    width: 100vw;
+    width: 70vw;
 }
 
 .hidden-menu .kea_logo {
@@ -2473,16 +2460,13 @@ h4 {
 .hidden-menu .logo {
     width: 45px;
     vertical-align: middle;
-
-}
-
-.hidden-menu .go_back {
-    transform: translateX(49vw);
 }
 
 .hidden-menu .go_back a {
     font-size: 0.8rem;
     font-weight: normal;
+    position: absolute;
+    left: 35vw;
 }
 
 .hidden-menu a {
