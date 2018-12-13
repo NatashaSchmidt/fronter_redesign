@@ -2459,7 +2459,7 @@ h4 {
 
 .move_menu {
     transform: translateX(18vw);
-    width: 100vw;
+    width: 80vw;
 }
 
 .hidden-menu .kea_logo {
@@ -2476,13 +2476,11 @@ h4 {
 
 }
 
-.hidden-menu .go_back {
-    transform: translateX(49vw);
-}
-
 .hidden-menu .go_back a {
     font-size: 0.8rem;
     font-weight: normal;
+    position: absolute;
+    left: 45vw;
 }
 
 .hidden-menu a {
